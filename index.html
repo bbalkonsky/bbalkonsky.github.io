@@ -30,6 +30,9 @@
             window.addEventListener('load', () => {
                 navigator.serviceWorker.register('/sw.js').then(registration => {
                     console.log('Service Worker registered with scope:', registration.scope);
+
+                    console.log(1, registration.waiting)
+                    console.log(2, registration.active)
                 }).catch(error => {
                     console.error('Service Worker registration failed:', error);
                 });
