@@ -40,7 +40,7 @@
                         // This would happen if skipWaiting() isn't being called, and there are
                         // still old tabs open.
                         console.log(1, 'Please close all tabs to get updates.');
-                        alert('Application was updated\nPlease reopen it to get the last version');
+                        // alert('Application was updated\nPlease reopen it to get the last version');
                     } else {
                         // updatefound is also fired for the very first install. ¯\_(ツ)_/¯
                         registration.addEventListener('updatefound', () => {
@@ -51,7 +51,7 @@
                                         // called in the SW, then the user needs to close all their
                                         // tabs before they'll get updates.
                                         console.log(2, 'Please close all tabs to get updates.');
-                                        alert('Application was updated\nPlease reopen it to get the last version');
+                                        // alert('Application was updated\nPlease reopen it to get the last version');
                                     } else {
                                         // Otherwise, this newly installed SW will soon become the
                                         // active SW. Rather than explicitly wait for that to happen,
@@ -80,6 +80,6 @@
 
     <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
     <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
-  <script src="./AppEntry-b73227f66514d25320d42750b615ab8e.js" defer></script>
+  <script src="./AppEntry-475d58a3cd3de6b459a54ff71284fa0c.js" defer></script>
 </body>
 </html>
