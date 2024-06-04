@@ -5,8 +5,8 @@
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <meta name="theme_color" content="#ffffff" media="(prefers-color-scheme: light)" />
-    <meta name="theme_color" content="#222b45" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#222b45" media="(prefers-color-scheme: dark)" />
 
     <link rel="manifest" href="./manifest.json" />
     <title>kalimera-react-native</title>
@@ -40,7 +40,7 @@
                         // This would happen if skipWaiting() isn't being called, and there are
                         // still old tabs open.
                         console.log(1, 'Please close all tabs to get updates.');
-                        registration.update();
+                        alert('Application was updated\nPlease reopen it to get the last version');
                     } else {
                         // updatefound is also fired for the very first install. ¯\_(ツ)_/¯
                         registration.addEventListener('updatefound', () => {
@@ -51,6 +51,7 @@
                                         // called in the SW, then the user needs to close all their
                                         // tabs before they'll get updates.
                                         console.log(2, 'Please close all tabs to get updates.');
+                                        alert('Application was updated\nPlease reopen it to get the last version');
                                     } else {
                                         // Otherwise, this newly installed SW will soon become the
                                         // active SW. Rather than explicitly wait for that to happen,
