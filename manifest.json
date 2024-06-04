@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
@@ -18,6 +18,17 @@
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
+    },
+
+    {
+      "src": "120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "180.png",
+      "type": "image/png",
+      "sizes": "180x180"
     }
   ],
   "start_url": ".",
