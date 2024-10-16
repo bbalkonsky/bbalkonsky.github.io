@@ -1,0 +1,96 @@
+{
+    "m": {
+        "articles": {
+            "singular": {
+                "nominative": {
+                    "definite": "ο",
+                    "indefinite": "ένας"
+                },
+                "accusative": {
+                    "definite": "τον",
+                    "indefinite": "έναν"
+                },
+                "genitive": {}
+            },
+            "plural": {
+                "nominative": {
+                    "definite": "οι"
+                },
+                "accusative": {
+                    "definite": "τους"
+                },
+                "genitive": {}
+            }
+        },
+        "endings": {
+            "plural": {
+                "ος": "οι",
+                "ας": "ες",
+                "ης": "ες"
+            }
+        }
+
+    },
+    "f": {
+        "articles": {
+            "singular": {
+                "nominative": {
+                    "definite": "η",
+                    "indefinite": "μία"
+                },
+                "accusative": {
+                    "definite": "τη(ν)",
+                    "indefinite": "μία(ν)"
+                },
+                "genitive": {}
+            },
+            "plural": {
+                "nominative": {
+                    "definite": "οι"
+                },
+                "accusative": {
+                    "definite": "τις"
+                },
+                "genitive": {}
+            }
+        },
+        "endings": {
+            "plural": {
+                "α": "ες",
+                "η": "ες"
+            }
+        }
+
+    },
+    "n": {
+        "articles": {
+            "singular": {
+                "nominative": {
+                    "definite": "το",
+                    "indefinite": "ένα"
+                },
+                "accusative": {
+                    "definite": "το",
+                    "indefinite": "ένα"
+                },
+                "genitive": {}
+            },
+            "plural": {
+                "nominative": {
+                    "definite": "τα"
+                },
+                "accusative": {
+                    "definite": "τα"
+                },
+                "genitive": {}
+            }
+        },
+        "endings": {
+            "plural": {
+                "ο": "α",
+                "ι": "ια",
+                "μα": "ματα"
+            }
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+  "a": [
+    {
+      "pronoun": "εγώ",
+      "engPronoun": "I",
+      "suffix": "ω"
+    },
+    {
+      "pronoun": "εσύ",
+      "engPronoun": "you",
+      "suffix": "εις"
+    },
+    {
+      "pronoun": [
+        "αυτός",
+        "αυτή",
+        "αυτό"
+      ],
+      "engPronoun": [
+        "he",
+        "she",
+        "it"
+      ],
+      "suffix": "ει"
+    },
+    {
+      "pronoun": "εμείς",
+      "engPronoun": "we",
+      "suffix": "ουμε"
+    },
+    {
+      "pronoun": "εσείς",
+      "engPronoun": "y`all",
+      "suffix": "ετε"
+    },
+    {
+      "pronoun": [
+        "αυτοί",
+        "αυτές",
+        "αυτά"
+      ],
+      "engPronoun": [
+        "(m) they",
+        "(f) they",
+        "(n) they"
+      ],
+      "suffix": "ουν"
+    }
+  ],
+  "b1": [
+    {
+      "pronoun": "εγώ",
+      "engPronoun": "I",
+      "suffix": "ω"
+    },
+    {
+      "pronoun": "εσύ",
+      "engPronoun": "you",
+      "suffix": "ς"
+    },
+    {
+      "pronoun": [
+        "αυτός",
+        "αυτή",
+        "αυτό"
+      ],
+      "engPronoun": [
+        "he",
+        "she",
+        "it"
+      ],
+      "suffix": "ει"
+    },
+    {
+      "pronoun": "εμείς",
+      "engPronoun": "we",
+      "suffix": "με"
+    },
+    {
+      "pronoun": "εσείς",
+      "engPronoun": "y`all",
+      "suffix": "τε"
+    },
+    {
+      "pronoun": [
+        "αυτοί",
+        "αυτές",
+        "αυτά"
+      ],
+      "engPronoun": [
+        "(m) they",
+        "(f) they",
+        "(n) they"
+      ],
+      "suffix": "νε"
+    }
+  ],
+  "b2": [
+    {
+      "pronoun": "εγώ",
+      "engPronoun": "I",
+      "suffix": "ώ"
+    },
+    {
+      "pronoun": "εσύ",
+      "engPronoun": "you",
+      "suffix": "είς"
+    },
+    {
+      "pronoun": [
+        "αυτός",
+        "αυτή",
+        "αυτό"
+      ],
+      "engPronoun": [
+        "he",
+        "she",
+        "it"
+      ],
+      "suffix": "εί"
+    },
+    {
+      "pronoun": "εμείς",
+      "engPronoun": "we",
+      "suffix": "ούμε"
+    },
+    {
+      "pronoun": "εσείς",
+      "engPronoun": "y`all",
+      "suffix": "είτε"
+    },
+    {
+      "pronoun": [
+        "αυτοί",
+        "αυτές",
+        "αυτά"
+      ],
+      "engPronoun": [
+        "(m) they",
+        "(f) they",
+        "(n) they"
+      ],
+      "suffix": "ούν"
+    }
+  ],
+  "ab": [
+    {
+      "pronoun": "εγώ",
+      "engPronoun": "I",
+      "suffix": "ω"
+    },
+    {
+      "pronoun": "εσύ",
+      "engPronoun": "you",
+      "suffix": "ς"
+    },
+    {
+      "pronoun": [
+        "αυτός",
+        "αυτή",
+        "αυτό"
+      ],
+      "engPronoun": [
+        "he",
+        "she",
+        "it"
+      ],
+      "suffix": "ει"
+    },
+    {
+      "pronoun": "εμείς",
+      "engPronoun": "we",
+      "suffix": "με"
+    },
+    {
+      "pronoun": "εσείς",
+      "engPronoun": "y`all",
+      "suffix": "τε"
+    },
+    {
+      "pronoun": [
+        "αυτοί",
+        "αυτές",
+        "αυτά"
+      ],
+      "engPronoun": [
+        "(m) they",
+        "(f) they",
+        "(n) they"
+      ],
+      "suffix": "νε"
+    }
+  ]
+}

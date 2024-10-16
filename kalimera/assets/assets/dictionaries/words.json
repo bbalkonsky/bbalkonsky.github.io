@@ -1,0 +1,1198 @@
+[
+  {
+    "type": "days",
+    "words": [
+      {
+        "en": "Monday",
+        "ru": "понедельник",
+        "class": "noun",
+        "gr": "Δευτέρα",
+        "samples": [
+          {
+            "en": "Monday is the first day of the week.",
+            "gr": "Η Δευτέρα είναι η πρώτη μέρα της εβδομάδας.",
+            "romanization": "I Deftéra íne i próti méra tis evdomádas.",
+            "kirillization": "И Дефтера ине и проти мера тис эвдомадас.",
+            "ru": "Понедельник - первый день недели."
+          }
+        ],
+        "romanization": "Deftéra",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "Tuesday",
+        "ru": "вторник",
+        "class": "noun",
+        "gr": "Τρίτη",
+        "samples": [
+          {
+            "en": "Tuesday is the second day of the week.",
+            "gr": "Η Τρίτη είναι η δεύτερη μέρα της εβδομάδας.",
+            "romanization": "I Tríti íne i défteri méra tis evdomádas.",
+            "kirillization": "И Трити ине и дефтери мера тис эвдомадас.",
+            "ru": "Вторник - второй день недели."
+          }
+        ],
+        "romanization": "Tríti",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "Wednesday",
+        "ru": "среда",
+        "class": "noun",
+        "gr": "Τετάρτη",
+        "samples": [
+          {
+            "en": "Wednesday is the middle of the week.",
+            "gr": "Η Τετάρτη είναι η μέση της εβδομάδας.",
+            "romanization": "I Tetárti íne i mési tis evdomádas.",
+            "kirillization": "И Тетарти ине и меси тис эвдомадас.",
+            "ru": "Среда - середина недели."
+          }
+        ],
+        "romanization": "Tetárti",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "Thursday",
+        "ru": "четверг",
+        "class": "noun",
+        "gr": "Πέμπτη",
+        "samples": [
+          {
+            "en": "Thursday is the fourth day of the week.",
+            "gr": "Η Πέμπτη είναι η τέταρτη μέρα της εβδομάδας.",
+            "romanization": "I Pémpti íne i tétarti méra tis evdomádas.",
+            "kirillization": "И Пемпти ине и тетарти мера тис эвдомадас.",
+            "ru": "Четверг - четвертый день недели."
+          }
+        ],
+        "romanization": "Pémpti",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "Friday",
+        "ru": "пятница",
+        "class": "noun",
+        "gr": "Παρασκευή",
+        "samples": [
+          {
+            "en": "Friday is the fifth day of the week.",
+            "gr": "Η Παρασκευή είναι η πέμπτη μέρα της εβδομάδας.",
+            "romanization": "I Paraskeví íne i pémpti méra tis evdomádas.",
+            "kirillization": "И Параскеви ине и пемпти мера тис эвдомадас.",
+            "ru": "Пятница - пятый день недели."
+          }
+        ],
+        "romanization": "Paraskeví",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "Saturday",
+        "ru": "суббота",
+        "class": "noun",
+        "gr": "Σάββατο",
+        "samples": [
+          {
+            "en": "Saturday is the sixth day of the week.",
+            "gr": "Το Σάββατο είναι η έκτη μέρα της εβδομάδας.",
+            "romanization": "To Sávvato íne i ékti méra tis evdomádas.",
+            "kirillization": "То Саввато ине и екти мера тис эвдомадас.",
+            "ru": "Суббота - шестой день недели."
+          }
+        ],
+        "romanization": "Sávvato",
+        "gender": "neuter",
+        "synonyms": []
+      },
+      {
+        "en": "Sunday",
+        "ru": "воскресенье",
+        "class": "noun",
+        "gr": "Κυριακή",
+        "samples": [
+          {
+            "en": "Sunday is the seventh day of the week.",
+            "gr": "Η Κυριακή είναι η έβδομη μέρα της εβδομάδας.",
+            "romanization": "I Kyriakí íne i évdomi méra tis evdomádas.",
+            "kirillization": "И Кириаки ине и евдоми мера тис эвдомадас.",
+            "ru": "Воскресенье - седьмой день недели."
+          }
+        ],
+        "romanization": "Kyriakí",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "day",
+        "ru": "день",
+        "class": "noun",
+        "gr": "μέρα",
+        "samples": [
+          {
+            "en": "Today is a good day.",
+            "gr": "Σήμερα είναι μια καλή μέρα.",
+            "romanization": "Símera íne mia kalí méra.",
+            "kirillization": "Симера ине миа кали мера.",
+            "ru": "Сегодня хороший день."
+          }
+        ],
+        "romanization": "iméra",
+        "gender": "feminine",
+        "synonyms": [
+          "μέρα (méra)"
+        ]
+      },
+      {
+        "en": "week",
+        "ru": "неделя",
+        "class": "noun",
+        "gr": "εβδομάδα",
+        "samples": [
+          {
+            "en": "This week is busy.",
+            "gr": "Αυτή η εβδομάδα είναι πολυάσχολη.",
+            "romanization": "Aftí i evdomáda íne poliáskholi.",
+            "kirillization": "Афти и эвдомада ине полиасхоли.",
+            "ru": "Эта неделя занята."
+          }
+        ],
+        "romanization": "evdomáda",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "month",
+        "ru": "месяц",
+        "class": "noun",
+        "gr": "μήνας",
+        "samples": [
+          {
+            "en": "This month is January.",
+            "gr": "Αυτός ο μήνας είναι Ιανουάριος.",
+            "romanization": "Aftós o mínas íne Ianouários.",
+            "kirillization": "Афтос о минас ине Иануариос.",
+            "ru": "Этот месяц январь."
+          }
+        ],
+        "romanization": "mínas",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "yesterday",
+        "ru": "вчера",
+        "class": "adverb",
+        "gr": "χθες",
+        "samples": [
+          {
+            "en": "I was at home yesterday.",
+            "gr": "Ήμουν στο σπίτι χθες.",
+            "romanization": "Ímoun sto spíti khthes.",
+            "kirillization": "Имун сто спити хтхес.",
+            "ru": "Я был дома вчера."
+          }
+        ],
+        "romanization": "khthes",
+        "gender": null,
+        "synonyms": [
+          "χτες (khtes)"
+        ]
+      },
+      {
+        "en": "today",
+        "ru": "сегодня",
+        "class": "adverb",
+        "gr": "σήμερα",
+        "samples": [
+          {
+            "en": "Today is sunny.",
+            "gr": "Σήμερα έχει ήλιο.",
+            "romanization": "Símera ékhi ílio.",
+            "kirillization": "Симера еки ильо.",
+            "ru": "Сегодня солнечно."
+          }
+        ],
+        "romanization": "símera",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "tomorrow",
+        "ru": "завтра",
+        "class": "adverb",
+        "gr": "αύριο",
+        "samples": [
+          {
+            "en": "I will go to the park tomorrow.",
+            "gr": "Θα πάω στο πάρκο αύριο.",
+            "romanization": "Tha páo sto párko ávrio.",
+            "kirillization": "Тха пао сто парко аврио.",
+            "ru": "Я пойду в парк завтра."
+          }
+        ],
+        "romanization": "ávrio",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "the day after tomorrow",
+        "ru": "послезавтра",
+        "class": "adverb",
+        "gr": "μεθαύριο",
+        "samples": [
+          {
+            "en": "We have a meeting the day after tomorrow.",
+            "gr": "Έχουμε συνάντηση μεθαύριο.",
+            "romanization": "Ékhume sinántisi methávrio.",
+            "kirillization": "Ехуаме синадиси метаврио.",
+            "ru": "У нас встреча послезавтра."
+          }
+        ],
+        "romanization": "methávrio",
+        "gender": null,
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "type": "family",
+    "words": [
+      {
+        "en": "family",
+        "ru": "семья",
+        "class": "noun",
+        "gr": "οικογένεια",
+        "samples": [
+          {
+            "en": "I love my family.",
+            "gr": "Αγαπώ την οικογένειά μου.",
+            "romanization": "Agapó tin ikoyéniá mou.",
+            "kirillization": "Агапо тин икогениа му.",
+            "ru": "Я люблю свою семью."
+          }
+        ],
+        "romanization": "ikoyéniá",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "mother",
+        "ru": "мать",
+        "class": "noun",
+        "gr": "μητέρα",
+        "samples": [
+          {
+            "en": "My mother is a teacher.",
+            "gr": "Η μητέρα μου είναι δασκάλα.",
+            "romanization": "I mitéra mou íne daskála.",
+            "kirillization": "И митера му ине даскала.",
+            "ru": "Моя мать учитель."
+          }
+        ],
+        "romanization": "mitéra",
+        "gender": "feminine",
+        "synonyms": ["μαμά (mamá)"]
+      },
+      {
+        "en": "father",
+        "ru": "отец",
+        "class": "noun",
+        "gr": "πατέρας",
+        "samples": [
+          {
+            "en": "My father works in an office.",
+            "gr": "Ο πατέρας μου δουλεύει σε γραφείο.",
+            "romanization": "O patéras mou doulévi se grafeío.",
+            "kirillization": "О патерас му дулеви се графио.",
+            "ru": "Мой отец работает в офисе."
+          }
+        ],
+        "romanization": "patéras",
+        "gender": "masculine",
+        "synonyms": ["μπαμπάς (babás)"]
+      },
+      {
+        "en": "wife",
+        "ru": "жена",
+        "class": "noun",
+        "gr": "σύζυγος",
+        "samples": [
+          {
+            "en": "My wife is a doctor.",
+            "gr": "Η σύζυγός μου είναι γιατρός.",
+            "romanization": "I sízygós mou íne yatrós.",
+            "kirillization": "И сизигос му ине ятрос.",
+            "ru": "Моя жена врач."
+          }
+        ],
+        "romanization": "sízygos",
+        "gender": "feminine",
+        "synonyms": ["γυναίκα (ginaíka)"]
+      },
+      {
+        "en": "husband",
+        "ru": "муж",
+        "class": "noun",
+        "gr": "σύζυγος",
+        "samples": [
+          {
+            "en": "Her husband is a lawyer.",
+            "gr": "Ο σύζυγός της είναι δικηγόρος.",
+            "romanization": "O sízygós tis íne dikigóros.",
+            "kirillization": "О сизигос тис ине дикигорос.",
+            "ru": "Её муж адвокат."
+          }
+        ],
+        "romanization": "sízygos",
+        "gender": "masculine",
+        "synonyms": ["άντρας (ándras)"]
+      },
+      {
+        "en": "parent",
+        "ru": "родитель",
+        "class": "noun",
+        "gr": "γονέας",
+        "samples": [
+          {
+            "en": "A parent should always support their child.",
+            "gr": "Ένας γονέας πρέπει πάντα να υποστηρίζει το παιδί του.",
+            "romanization": "Énas gonéas prépi pánta na ipostirízi to pedí tou.",
+            "kirillization": "Энас гонэас прэпи панта на ипостиризи то педи ту.",
+            "ru": "Родитель всегда должен поддерживать своего ребёнка."
+          }
+        ],
+        "romanization": "gonéas",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "child",
+        "ru": "ребёнок",
+        "class": "noun",
+        "gr": "παιδί",
+        "samples": [
+          {
+            "en": "The child is playing in the garden.",
+            "gr": "Το παιδί παίζει στον κήπο.",
+            "romanization": "To pedí paízi ston kípo.",
+            "kirillization": "То педи паизи стон кипо.",
+            "ru": "Ребёнок играет в саду."
+          }
+        ],
+        "romanization": "pedí",
+        "gender": "neuter",
+        "synonyms": []
+      },
+      {
+        "en": "daughter",
+        "ru": "дочь",
+        "class": "noun",
+        "gr": "κόρη",
+        "samples": [
+          {
+            "en": "My daughter likes to read.",
+            "gr": "Η κόρη μου αγαπάει να διαβάζει.",
+            "romanization": "I kóri mou agapái na diavázi.",
+            "kirillization": "И кoри му агапаи на диавази.",
+            "ru": "Моя дочь любит читать."
+          }
+        ],
+        "romanization": "kóri",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "son",
+        "ru": "сын",
+        "class": "noun",
+        "gr": "γιος",
+        "samples": [
+          {
+            "en": "Her son is very smart.",
+            "gr": "Ο γιος της είναι πολύ έξυπνος.",
+            "romanization": "O gios tis íne polí éksipnos.",
+            "kirillization": "О гиос тис ине поли эксипнос.",
+            "ru": "Её сын очень умный."
+          }
+        ],
+        "romanization": "gios",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "sister",
+        "ru": "сестра",
+        "class": "noun",
+        "gr": "αδελφή",
+        "samples": [
+          {
+            "en": "My sister is younger than me.",
+            "gr": "Η αδελφή μου είναι μικρότερη από μένα.",
+            "romanization": "I adelfí mou íne mikróteri apó ména.",
+            "kirillization": "И аделфи му ине микротери апо мена.",
+            "ru": "Моя сестра младше меня."
+          }
+        ],
+        "romanization": "adelfí",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "brother",
+        "ru": "брат",
+        "class": "noun",
+        "gr": "αδελφός",
+        "samples": [
+          {
+            "en": "His brother lives in another city.",
+            "gr": "Ο αδελφός του ζει σε άλλη πόλη.",
+            "romanization": "O adelfós tou zi se áli póli.",
+            "kirillization": "О аделфос ту зи се али поли.",
+            "ru": "Его брат живёт в другом городе."
+          }
+        ],
+        "romanization": "adelfós",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "great-grandmother",
+        "ru": "прабабушка",
+        "class": "noun",
+        "gr": "προγιαγιά",
+        "samples": [
+          {
+            "en": "My great-grandmother is very old.",
+            "gr": "Η προγιαγιά μου είναι πολύ ηλικιωμένη.",
+            "romanization": "I progiagiá mou íne polí ilikiómeni.",
+            "kirillization": "И прогиагиа му ине поли иликиомени.",
+            "ru": "Моя прабабушка очень старая."
+          }
+        ],
+        "romanization": "progiagiá",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "great-grandfather",
+        "ru": "прадедушка",
+        "class": "noun",
+        "gr": "προπάππους",
+        "samples": [
+          {
+            "en": "His great-grandfather fought in the war.",
+            "gr": "Ο προπάππους του πολέμησε στον πόλεμο.",
+            "romanization": "O propáppous tou polémise ston pólemo.",
+            "kirillization": "О пропаппус ту полемисе стон полемо.",
+            "ru": "Его прадедушка воевал на войне."
+          }
+        ],
+        "romanization": "propáppous",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "grandmother",
+        "ru": "бабушка",
+        "class": "noun",
+        "gr": "γιαγιά",
+        "samples": [
+          {
+            "en": "My grandmother makes the best cookies.",
+            "gr": "Η γιαγιά μου φτιάχνει τα καλύτερα μπισκότα.",
+            "romanization": "I giagiá mou ftiákhni ta kalítera biskóta.",
+            "kirillization": "И гиагиа му фтяхни та калитера бискота.",
+            "ru": "Моя бабушка печёт лучшие печенья."
+          }
+        ],
+        "romanization": "giagiá",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "grandfather",
+        "ru": "дедушка",
+        "class": "noun",
+        "gr": "παππούς",
+        "samples": [
+          {
+            "en": "His grandfather tells great stories.",
+            "gr": "Ο παππούς του λέει ωραίες ιστορίες.",
+            "romanization": "O pappoús tou léi oraíes istoríes.",
+            "kirillization": "О паппус ту леи ореис историс.",
+            "ru": "Его дедушка рассказывает отличные истории."
+          }
+        ],
+        "romanization": "pappoús",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "grandchild",
+        "ru": "внук/внучка",
+        "class": "noun",
+        "gr": "εγγόνι",
+        "samples": [
+          {
+            "en": "Their grandchild loves them very much.",
+            "gr": "Το εγγόνι τους τους αγαπάει πολύ.",
+            "romanization": "To engóni tous tous agapái polí.",
+            "kirillization": "То энгони тус тус агапаи поли.",
+            "ru": "Их внук/внучка очень их любит."
+          }
+        ],
+        "romanization": "engóni",
+        "gender": "neuter",
+        "synonyms": []
+      },
+      {
+        "en": "granddaughter",
+        "ru": "внучка",
+        "class": "noun",
+        "gr": "εγγονή",
+        "samples": [
+          {
+            "en": "My granddaughter is very talented.",
+            "gr": "Η εγγονή μου είναι πολύ ταλαντούχα.",
+            "romanization": "I engoní mou íne polí talandoúha.",
+            "kirillization": "И энгони му ине поли таландуха.",
+            "ru": "Моя внучка очень талантлива."
+          }
+        ],
+        "romanization": "engoní",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "grandson",
+        "ru": "внук",
+        "class": "noun",
+        "gr": "εγγονός",
+        "samples": [
+          {
+            "en": "Her grandson is very kind.",
+            "gr": "Ο εγγονός της είναι πολύ ευγενικός.",
+            "romanization": "O engonós tis íne polí evgenikós.",
+            "kirillization": "О энгoнос тис ине поли эвгеникос.",
+            "ru": "Её внук очень добрый."
+          }
+        ],
+        "romanization": "engonós",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "aunt",
+        "ru": "тётя",
+        "class": "noun",
+        "gr": "θεία",
+        "samples": [
+          {
+            "en": "My aunt is visiting us.",
+            "gr": "Η θεία μου μας επισκέπτεται.",
+            "romanization": "I thía mou mas episképtete.",
+            "kirillization": "И тхиа му мас эпискептете.",
+            "ru": "Моя тётя нас навещает."
+          }
+        ],
+        "romanization": "thía",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "uncle",
+        "ru": "дядя",
+        "class": "noun",
+        "gr": "θείος",
+        "samples": [
+          {
+            "en": "His uncle is very funny.",
+            "gr": "Ο θείος του είναι πολύ αστείος.",
+            "romanization": "O thíos tou íne polí astíos.",
+            "kirillization": "О тхиос ту ине поли астiос.",
+            "ru": "Его дядя очень смешной."
+          }
+        ],
+        "romanization": "thíos",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "niece",
+        "ru": "племянница",
+        "class": "noun",
+        "gr": "ανιψιά",
+        "samples": [
+          {
+            "en": "My niece is learning to dance.",
+            "gr": "Η ανιψιά μου μαθαίνει να χορεύει.",
+            "romanization": "I anipsiá mou mathéni na khorévi.",
+            "kirillization": "И анипсиа му маthени на хореви.",
+            "ru": "Моя племянница учится танцевать."
+          }
+        ],
+        "romanization": "anipsiá",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "nephew",
+        "ru": "племянник",
+        "class": "noun",
+        "gr": "ανιψιός",
+        "samples": [
+          {
+            "en": "Her nephew is very talented.",
+            "gr": "Ο ανιψιός της είναι πολύ ταλαντούχος.",
+            "romanization": "O anipsiós tis íne polí talandoúhos.",
+            "kirillization": "О анипсиос тис ине поли таландухос.",
+            "ru": "Её племянник очень талантливый."
+          }
+        ],
+        "romanization": "anipsiós",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "cousin",
+        "ru": "двоюродный брат/сестра",
+        "class": "noun",
+        "gr": "ξάδερφος, ξαδέρφη",
+        "samples": [
+          {
+            "en": "My cousin is coming to visit.",
+            "gr": "Ο ξάδερφός μου έρχεται να μας επισκεφτεί.",
+            "romanization": "O xáderfós mou érhete na mas episkefteí.",
+            "kirillization": "О ксадерфос му эрхете на мас эпискефти.",
+            "ru": "Мой двоюродный брат приезжает в гости."
+          },
+          {
+            "en": "My cousin is coming to visit.",
+            "gr": "Η ξαδέρφη μου έρχεται να μας επισκεφτεί.",
+            "romanization": "I xadérfi mou érhete na mas episkefteí.",
+            "kirillization": "И ксадерфи му эрхете на мас эпискефти.",
+            "ru": "Моя двоюродная сестра приезжает в гости."
+          }
+        ],
+        "romanization": "xáderfós, xadérfi",
+        "gender": "masculine, feminine",
+        "synonyms": []
+      },
+      {
+        "en": "partner",
+        "ru": "партнёр",
+        "class": "noun",
+        "gr": "σύντροφος",
+        "samples": [
+          {
+            "en": "My partner and I are very happy together.",
+            "gr": "Ο σύντροφός μου κι εγώ είμαστε πολύ χαρούμενοι μαζί.",
+            "romanization": "O sýndrofós mou ki egó ímaste polí haroúmeni mazí.",
+            "kirillization": "О синдрофос му ки эго имасте поли харумени мази.",
+            "ru": "Мой партнёр и я очень счастливы вместе."
+          }
+        ],
+        "romanization": "sýndrofos",
+        "gender": "masculine",
+        "synonyms": []
+      }
+    ]
+  },
+  {
+    "type": "prepositions",
+    "words": [
+      {
+        "en": "approximately, about",
+        "ru": "примерно",
+        "class": "adverb",
+        "gr": "περίπου",
+        "samples": [
+          {
+            "en": "The meeting will last approximately an hour.",
+            "gr": "Η συνάντηση θα διαρκέσει περίπου μία ώρα.",
+            "romanization": "I sinántisi tha diarkési perípou mía óra.",
+            "kirillization": "И синадиси thа диаркеси периpu миа ора.",
+            "ru": "Встреча продлится примерно час."
+          }
+        ],
+        "romanization": "perípou",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "above",
+        "ru": "выше",
+        "class": "adverb",
+        "gr": "άνω",
+        "samples": [
+          {
+            "en": "The temperature is above normal.",
+            "gr": "Η θερμοκρασία είναι άνω του φυσιολογικού.",
+            "romanization": "I thermokrasía íne áno tou fisiologikoú.",
+            "kirillization": "И thermокрасиа ине ано ту фисиологику.",
+            "ru": "Температура выше нормы."
+          }
+        ],
+        "romanization": "áno",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "across, opposite",
+        "ru": "напротив",
+        "class": "adverb",
+        "gr": "απέναντι",
+        "samples": [
+          {
+            "en": "The shop is opposite the bank.",
+            "gr": "Το κατάστημα είναι απέναντι από την τράπεζα.",
+            "romanization": "To katástima íne apénanti apó tin trápeza.",
+            "kirillization": "То катастима ине апенанти апо тин траπεζу.",
+            "ru": "Магазин напротив банка."
+          }
+        ],
+        "romanization": "apénanti",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "after",
+        "ru": "после",
+        "class": "preposition",
+        "gr": "μετά",
+        "samples": [
+          {
+            "en": "We will go for a walk after dinner.",
+            "gr": "Θα πάμε για περπάτημα μετά το δείπνο.",
+            "romanization": "Tha páme ya perpátima metá to dípno.",
+            "kirillization": "Thа паме я перпатима мета то дипно.",
+            "ru": "Мы пойдём на прогулку после ужина."
+          }
+        ],
+        "romanization": "metá",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "around",
+        "ru": "вокруг",
+        "class": "preposition",
+        "gr": "γύρω",
+        "samples": [
+          {
+            "en": "They walked around the park.",
+            "gr": "Περπάτησαν γύρω από το πάρκο.",
+            "romanization": "Perpátisan gýro apó to párko.",
+            "kirillization": "Перпатисан гири апо то парко.",
+            "ru": "Они гуляли вокруг парка."
+          }
+        ],
+        "romanization": "gýro",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "as",
+        "ru": "как",
+        "class": "conjunction",
+        "gr": "ως",
+        "samples": [
+          {
+            "en": "He works as a teacher.",
+            "gr": "Εργάζεται ως δάσκαλος.",
+            "romanization": "Ergázete os dáskalos.",
+            "kirillization": "Эргазете ос даскалос.",
+            "ru": "Он работает учителем."
+          }
+        ],
+        "romanization": "os",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "at, in",
+        "ru": "в",
+        "class": "preposition",
+        "gr": "στο",
+        "samples": [
+          {
+            "en": "She lives in the city.",
+            "gr": "Ζει στην πόλη.",
+            "romanization": "Zi stin póli.",
+            "kirillization": "Зи стин поли.",
+            "ru": "Она живет в городе."
+          }
+        ],
+        "romanization": "sto",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "before",
+        "ru": "до",
+        "class": "conjunction",
+        "gr": "προτού",
+        "samples": [
+          {
+            "en": "We need to finish before midnight.",
+            "gr": "Πρέπει να τελειώσουμε προτού τα μεσάνυχτα.",
+            "romanization": "Prépi na teliôsoume protou ta mesánihta.",
+            "kirillization": "Прэпи на телиосуме проту та месанихта.",
+            "ru": "Нам нужно закончить до полуночи."
+          }
+        ],
+        "romanization": "protou",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "behind",
+        "ru": "позади",
+        "class": "preposition",
+        "gr": "πίσω",
+        "samples": [
+          {
+            "en": "The cat is hiding behind the curtain.",
+            "gr": "Η γάτα κρύβεται πίσω από την κουρτίνα.",
+            "romanization": "I gáta krívete píso apó tin kurtína.",
+            "kirillization": "И гата кривете писо апо тин куртина.",
+            "ru": "Кошка прячется за занавеской."
+          }
+        ],
+        "romanization": "píso",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "below",
+        "ru": "ниже",
+        "class": "preposition",
+        "gr": "παρακάτω",
+        "samples": [
+          {
+            "en": "You can find more details below.",
+            "gr": "Μπορείτε να βρείτε περισσότερες λεπτομέρειες παρακάτω.",
+            "romanization": "Boríte na vríte perisóteres leptoméries parakáto.",
+            "kirillization": "Борите на врите перисотерес лептомериес паракато.",
+            "ru": "Вы можете найти больше деталей ниже."
+          }
+        ],
+        "romanization": "parakáto",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "under, beneath",
+        "ru": "под",
+        "class": "preposition",
+        "gr": "κάτω από",
+        "samples": [
+          {
+            "en": "The cat is sleeping under the table.",
+            "gr": "Η γάτα κοιμάται κάτω από το τραπέζι.",
+            "romanization": "I gáta kimáte káto apó to trapézi.",
+            "kirillization": "И гата кимате като апо то трапези.",
+            "ru": "Кошка спит под столом."
+          }
+        ],
+        "romanization": "káto apó",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "next to, beside",
+        "ru": "рядом с",
+        "class": "preposition",
+        "gr": "δίπλα",
+        "samples": [
+          {
+            "en": "She sits next to me.",
+            "gr": "Κάθεται δίπλα μου.",
+            "romanization": "Káthete dípla mou.",
+            "kirillization": "Катете дипла му.",
+            "ru": "Она сидит рядом со мной."
+          }
+        ],
+        "romanization": "dípla",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "between",
+        "ru": "между",
+        "class": "preposition",
+        "gr": "μεταξύ",
+        "samples": [
+          {
+            "en": "He is standing between the trees.",
+            "gr": "Στέκεται μεταξύ των δέντρων.",
+            "romanization": "Stékete metaxý ton déntron.",
+            "kirillization": "Стекете метакси тон дендрон.",
+            "ru": "Он стоит между деревьями."
+          }
+        ],
+        "romanization": "metaxý",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "beyond",
+        "ru": "за",
+        "class": "preposition",
+        "gr": "πέρα",
+        "samples": [
+          {
+            "en": "The mountains are beyond the river.",
+            "gr": "Τα βουνά είναι πέρα από το ποτάμι.",
+            "romanization": "Ta vuná íne péra apó to potámi.",
+            "kirillization": "Та вуна ине пера апо то потами.",
+            "ru": "Горы за рекой."
+          }
+        ],
+        "romanization": "péra",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "but",
+        "ru": "но",
+        "class": "conjunction",
+        "gr": "αλλά",
+        "samples": [
+          {
+            "en": "I like coffee, but I prefer tea.",
+            "gr": "Μου αρέσει ο καφές, αλλά προτιμώ το τσάι.",
+            "romanization": "Mou arési o kafés, allá protimó to tsái.",
+            "kirillization": "Му ареси о кафес, алла протимо то тсай.",
+            "ru": "Мне нравится кофе, но я предпочитаю чай."
+          }
+        ],
+        "romanization": "allá",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "with, by",
+        "ru": "с",
+        "class": "preposition",
+        "gr": "με",
+        "samples": [
+          {
+            "en": "I am going with my friend.",
+            "gr": "Πάω με τον φίλο μου.",
+            "romanization": "Páo me ton fílo mou.",
+            "kirillization": "Пау ме тон филο му.",
+            "ru": "Я иду с моим другом."
+          }
+        ],
+        "romanization": "me",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "except, despite",
+        "ru": "кроме",
+        "class": "preposition",
+        "gr": "εκτός",
+        "samples": [
+          {
+            "en": "Everyone is here except him.",
+            "gr": "Όλοι είναι εδώ εκτός από αυτόν.",
+            "romanization": "Óli íne edó ektós apó aftón.",
+            "kirillization": "Оли ине эдо eктос апо афтоν.",
+            "ru": "Все здесь, кроме него."
+          }
+        ],
+        "romanization": "ektós",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "for",
+        "ru": "для",
+        "class": "preposition",
+        "gr": "για",
+        "samples": [
+          {
+            "en": "This gift is for you.",
+            "gr": "Αυτό το δώρο είναι για σένα.",
+            "romanization": "Aftó to dóro íne ya séna.",
+            "kirillization": "Афто то дорο ине я сена.",
+            "ru": "Этот подарок для тебя."
+          }
+        ],
+        "romanization": "ya",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "from, for",
+        "ru": "от, из",
+        "class": "preposition",
+        "gr": "από",
+        "samples": [
+          {
+            "en": "I am from Greece.",
+            "gr": "Είμαι από την Ελλάδα.",
+            "romanization": "Íme apó tin Elláda.",
+            "kirillization": "Име апо тιν Элада.",
+            "ru": "Я из Греции."
+          }
+        ],
+        "romanization": "apó",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "in, into",
+        "ru": "в",
+        "class": "preposition",
+        "gr": "σε",
+        "samples": [
+          {
+            "en": "I live in a small house.",
+            "gr": "Μένω σε ένα μικρό σπίτι.",
+            "romanization": "Méno se éna mikró spíti.",
+            "kirillization": "Менο се эна микро спити.",
+            "ru": "Я живу в маленьком доме."
+          }
+        ],
+        "romanization": "se",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "inside",
+        "ru": "внутри",
+        "class": "preposition",
+        "gr": "εντός",
+        "samples": [
+          {
+            "en": "The cat is inside the box.",
+            "gr": "Η γάτα είναι εντός του κουτιού.",
+            "romanization": "I gáta íne entós tou koutioú.",
+            "kirillization": "И гата ине eнтос ту кутиу.",
+            "ru": "Кошка внутри коробки."
+          }
+        ],
+        "romanization": "entós",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "near",
+        "ru": "рядом",
+        "class": "preposition",
+        "gr": "κοντά",
+        "samples": [
+          {
+            "en": "I live near the park.",
+            "gr": "Μένω κοντά στο πάρκο.",
+            "romanization": "Méno kondá sto párko.",
+            "kirillization": "Менο конда сто парко.",
+            "ru": "Я живу рядом с парком."
+          }
+        ],
+        "romanization": "kondá",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "next",
+        "ru": "следующий",
+        "class": "adjective",
+        "gr": "επόμενη",
+        "samples": [
+          {
+            "en": "The next bus arrives in 10 minutes.",
+            "gr": "Το επόμενο λεωφορείο φτάνει σε 10 λεπτά.",
+            "romanization": "To epómeno leoforío ftáni se 10 leptá.",
+            "kirillization": "То эпоменο леофорио фтани се 10 лепта.",
+            "ru": "Следующий автобус прибывает через 10 минут."
+          }
+        ],
+        "romanization": "epómeni",
+        "gender": "feminine",
+        "synonyms": []
+      },
+      {
+        "en": "of",
+        "ru": "из",
+        "class": "preposition",
+        "gr": "του",
+        "samples": [
+          {
+            "en": "The book of the teacher.",
+            "gr": "Το βιβλίο του δασκάλου.",
+            "romanization": "To vivlío tou daskálou.",
+            "kirillization": "То вивлиο ту даскалу.",
+            "ru": "Книга учителя."
+          }
+        ],
+        "romanization": "tou",
+        "gender": "masculine",
+        "synonyms": []
+      },
+      {
+        "en": "on",
+        "ru": "на",
+        "class": "preposition",
+        "gr": "επί",
+        "samples": [
+          {
+            "en": "The book is on the table.",
+            "gr": "Το βιβλίο είναι επί του τραπεζιού.",
+            "romanization": "To vivlío íne epí tou trapezioú.",
+            "kirillization": "То вивлио ине эпι ту трапезиу.",
+            "ru": "Книга на столе."
+          }
+        ],
+        "romanization": "epí",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "opposite",
+        "ru": "напротив",
+        "class": "adverb",
+        "gr": "απέναντι",
+        "samples": [
+          {
+            "en": "The bank is opposite the library.",
+            "gr": "Η τράπεζα είναι απέναντι από τη βιβλιοθήκη.",
+            "romanization": "I trápeza íne apénanti apó ti vivliothíki.",
+            "kirillization": "И трапеза ине апенанти апо ти вивлиоthики.",
+            "ru": "Банк напротив библиотеки."
+          }
+        ],
+        "romanization": "apénanti",
+        "gender": null,
+        "synonyms": []
+      },
+      {
+        "en": "outside, out",
+        "ru": "снаружи",
+        "class": "adverb",
+        "gr": "έξω",
+        "samples": [
+          {
+            "en": "The dog is outside the house.",
+            "gr": "Ο σκύλος είναι έξω από το σπίτι.",
+            "romanization": "O skílos íne éxo apó to spíti.",
+            "kirillization": "О скилос ине eксо апо то спити.",
+            "ru": "Собака снаружи дома."
+          }
+        ],
+        "romanization": "éxo",
+        "gender": null,
+        "synonyms": []
+      }
+    ]
+  }
+]
